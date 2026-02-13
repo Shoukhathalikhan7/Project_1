@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "defaultProvider": "ef",
+  "symbols": {
+    "usehsts": {
+      "type": "parameter",
+      "datatype": "bool",
+      "defaultValue": "false"
+    }
+  }
+}
